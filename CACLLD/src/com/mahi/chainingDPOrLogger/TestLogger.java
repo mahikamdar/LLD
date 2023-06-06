@@ -1,4 +1,4 @@
-package com.mahi;
+package com.mahi.chainingDPOrLogger;
 
 public class TestLogger {
 public static void main(String[] args) {

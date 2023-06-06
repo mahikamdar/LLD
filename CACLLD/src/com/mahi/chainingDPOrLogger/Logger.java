@@ -1,4 +1,4 @@
-package com.mahi;
+package com.mahi.chainingDPOrLogger;
 
 public abstract class Logger {
 	Logger next;
